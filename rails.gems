@@ -1,0 +1,8 @@
+# rails.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+
+bigdecimal -v1.2.6
+io-console -v0.4.3
+json -v1.8.1
+psych -v2.0.8
+rake -v10.4.2
+rdoc -v4.2.0
