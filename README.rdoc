@@ -1,3 +1,2 @@
-I tried to make a online private shopping-like site. 
-Users should register and login to get onto the site. To login, a user needs  email, password,and name. Then, based on an user information, the site shows customized-collection on the main page of the site. That's why I made a gender object under User model, such as man collection, woman collection, and so on. each collection has a different name. And then, if an user selects one ofcollections, he/she can see the products of the collection he/she chooses. Each collection is shown by brand, price, and best selling. Thus, I made three models; User, Category(like collecton), and Product. 
+I chose a csv file about the list of food vendors in Times Square and saved in /lib/assets. I made a model file called food_vendor.rb. In food_vendor.rake file, I wrote ruby codes, but I kept getting errors to populate my database with dataset. 
 
