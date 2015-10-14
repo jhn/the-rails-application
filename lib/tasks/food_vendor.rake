@@ -1,5 +1,5 @@
 require 'csv'	
-namespace :railsproject do
+namespace :times_square_data do
 	desc "this is the list of food vendor in Times Square"
 	task import: :environment do
 		
