@@ -6,5 +6,7 @@ class FoodVendor
   field :sub_subindustry, type: String
   field :phone, type: String
   field :website, type: String
- 
+
+  validates :name, :presence => true
+  validates :subindustry, :presence => true
 end

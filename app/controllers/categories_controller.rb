@@ -1,6 +1,7 @@
 class CategoriesController < ApplicationController
   before_action :set_category, only: [:show, :edit, :update, :destroy]
 
+  layout "partial_utilmenu"
   # GET /categories
   # GET /categories.json
   def index

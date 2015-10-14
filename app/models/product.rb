@@ -4,4 +4,6 @@ class Product
   field :price, type: String
   field :best_selling, type: String
 	belongs_to :user
+
+	validates :brand, presence: true
 end

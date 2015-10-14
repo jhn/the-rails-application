@@ -2,6 +2,8 @@ class SessionsController < ApplicationController
 
   skip_before_filter :require_user, :only => [:new, :create]
 
+
+
   def new
   end
 
