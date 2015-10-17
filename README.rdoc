@@ -1,2 +1,3 @@
 I uploaded hw4. I chose a csv file about the list of food vendors in Times Square and saved in /lib/assets. I made a model file called food_vendor.rb. In food_vendor.rake file, I wrote ruby codes, but I kept getting errors to populate my database with dataset. 
 
+Rubyy on Railss, Fall 2015.
